@@ -2,6 +2,6 @@
 adonisjs number guessing game tutorial
 
 *run commands:*
-> npm i
-> adonis serve --dev
+- npm i
+- adonis serve --dev
 
